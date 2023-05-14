@@ -1,0 +1,30 @@
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\BloodBank 1\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\BloodBank.exe.config
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\BloodBank 1\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\BloodBank.exe
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\BloodBank 1\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\BloodBank.pdb
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\BloodBank 1\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\LibraryManagementFinal.exe.config
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\LibraryManagementFinal.exe.config
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\LibraryManagementFinal.exe
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\LibraryManagementFinal.pdb
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\mscorlib.dll
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\normidna.nlp
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\normnfc.nlp
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\normnfd.nlp
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\normnfkc.nlp
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\bin\Debug\normnfkd.nlp
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.csprojResolveAssemblyReference.cache
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form1.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form2.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form3.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form4.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form5.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form6.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form7.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form8.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form9.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Properties.Resources.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.csproj.GenerateResource.Cache
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.exe
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.pdb
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form10.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form11.resources
+D:\PAF KIET\FALL 2021 Object Oriented Programming\Afte Mid\LibraryManagementFinalProject\LibraryManagementFinal\LibraryManagementFinal\obj\Debug\LibraryManagementFinal.Form12.resources
